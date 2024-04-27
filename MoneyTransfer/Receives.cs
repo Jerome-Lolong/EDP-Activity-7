@@ -187,6 +187,7 @@ namespace MoneyTransfer
             Transactions Obj = new Transactions();
             Obj.Show();
             this.Hide();
+            //Goes Back to Transactions Page
         }
     }
 }
